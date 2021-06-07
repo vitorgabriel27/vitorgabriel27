@@ -10,7 +10,7 @@
 	  <img align="center" alt="Vitu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vitu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Vitu-Gif" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width = "200px">
+  <img align="right" alt="Vitu-Gif" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width = "150px" height="150px">
 </div>
   
   ##
