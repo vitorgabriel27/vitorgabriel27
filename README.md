@@ -13,7 +13,7 @@
   <img align="center" alt="Vitu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vitu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Vitu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Vitu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+ <img align="center" alt="Vitu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="right" alt="Vitu-Gif" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width = "150px" height="150px">
 </div>
   
